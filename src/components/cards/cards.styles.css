@@ -1,0 +1,13 @@
+.card-list {
+    width: 100vw;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    /* grid-gap: 20px; */
+    background-color: #c9ff4254;
+    background-size: auto;
+}
+
+div {
+    margin: 10px;
+}

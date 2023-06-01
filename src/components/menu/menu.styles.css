@@ -1,0 +1,28 @@
+.div_menu {
+    background-color: #88abc2;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.button {
+    background-color: #ebf7f8;
+    border-radius: 8px;
+    max-width: 5%;
+    min-width: 25px;
+    margin: 3px
+}
+
+.button:hover {
+    transform: scale(1.15);
+}
+
+p {
+    font-family: monospace;
+    font-size: 30px;
+    padding: auto;
+    margin: auto;
+}
